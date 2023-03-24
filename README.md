@@ -1,1 +1,888 @@
 # licha8.github.io
+
+{
+   "checksum": "d2fa3c4627fe801c1cdba33b7f05d834",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13312965180258218",
+                  "date_last_used": "0",
+                  "guid": "11996252-0f52-4121-adcc-ae69755549a0",
+                  "id": "97",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Overview | 仙工智能帮助中心",
+                  "type": "url",
+                  "url": "https://support.seer-group.com/Core_API_xywd/HTTP_API_/Overview.html"
+               }, {
+                  "date_added": "13312965194107828",
+                  "date_last_used": "0",
+                  "guid": "8882b828-4415-4a92-bb45-a900c1ebcd52",
+                  "id": "99",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "API简介 | 仙工智能帮助中心",
+                  "type": "url",
+                  "url": "https://support.seer-group.com/Robokit_API_txxy/API/TCP_IP_API/gs/APIjj.html"
+               }, {
+                  "date_added": "13312965196690277",
+                  "date_last_used": "0",
+                  "guid": "ab0c82c2-e903-492c-b137-2b5a8389302f",
+                  "id": "100",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "机构脚本编程规范 | 仙工智能帮助中心",
+                  "type": "url",
+                  "url": "https://support.seer-group.com/Robokit_gnwd/jgjb/jgjbbcgf.html"
+               }, {
+                  "date_added": "13313817977051085",
+                  "date_last_used": "0",
+                  "guid": "ecd9ad96-9b1f-4426-bada-4c1c8efdae09",
+                  "id": "105",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "RoboshopPro 使用手册",
+                  "type": "url",
+                  "url": "https://seer-group.yuque.com/pf4yvd/usvgfr/home-page"
+               } ],
+               "date_added": "13312965191458390",
+               "date_last_used": "0",
+               "date_modified": "13313833957288908",
+               "guid": "53e776f6-af00-4a52-8d15-94755b33877a",
+               "id": "98",
+               "name": "AGV",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13321007689722240",
+                  "date_last_used": "0",
+                  "guid": "93750afb-b459-463a-a3f0-0f166f567687",
+                  "id": "122",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "文档 | frp",
+                  "type": "url",
+                  "url": "https://gofrp.org/docs/"
+               }, {
+                  "date_added": "13321012047882478",
+                  "date_last_used": "13323775499228658",
+                  "guid": "97ed2766-5751-48df-8c0a-232fa1145ce6",
+                  "id": "123",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "frpc客户端连接会提示 login to server failed: EOF_Jeff_Scott的博客-CSDN博客_login to server failed: eof",
+                  "type": "url",
+                  "url": "https://blog.csdn.net/jeffscott/article/details/106644969"
+               }, {
+                  "date_added": "13321435507839705",
+                  "date_last_used": "13323151717492050",
+                  "guid": "245b1a3e-ed4a-4ca8-af1d-586edb7ad715",
+                  "id": "125",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "[译] NAT 穿透是如何工作的：技术原理及企业级实践（Tailscale, 2020）",
+                  "type": "url",
+                  "url": "https://arthurchiao.art/blog/how-nat-traversal-works-zh/"
+               }, {
+                  "date_added": "13321435539519633",
+                  "date_last_used": "13323754350757784",
+                  "guid": "75641c63-e551-4481-a053-8ef9726bf8b1",
+                  "id": "126",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Tailscale 基础教程：Headscale 的部署方法和使用教程 – 云原生实验室 - Kubernetes|Docker|Istio|Envoy|Hugo|Golang|云原生",
+                  "type": "url",
+                  "url": "https://icloudnative.io/posts/how-to-set-up-or-migrate-headscale/#%E6%89%93%E9%80%9A%E5%B1%80%E5%9F%9F%E7%BD%91"
+               }, {
+                  "date_added": "13307438680274704",
+                  "date_last_used": "0",
+                  "guid": "ac2899c3-8750-457c-8689-c5e71458b6ca",
+                  "id": "74",
+                  "name": "ngrok - download",
+                  "type": "url",
+                  "url": "https://ngrok.com/download"
+               }, {
+                  "date_added": "13307438689818666",
+                  "date_last_used": "0",
+                  "guid": "4d04c351-cb8c-4ad9-9e27-e1112fe3f9fd",
+                  "id": "75",
+                  "name": " ZeroTier",
+                  "type": "url",
+                  "url": "https://www.zerotier.com/download/"
+               }, {
+                  "date_added": "13307438846298423",
+                  "date_last_used": "13322112687811171",
+                  "guid": "076988d2-28d1-4726-a2ce-d4b4b2b17889",
+                  "id": "76",
+                  "name": "Download · Tailscale",
+                  "type": "url",
+                  "url": "https://tailscale.com/download/linux/centos-7"
+               }, {
+                  "date_added": "13321435829437725",
+                  "date_last_used": "13322042966336388",
+                  "guid": "988a7385-1dc6-45e0-927d-fdd1975d6594",
+                  "id": "128",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "headscale常用命令 - 知乎",
+                  "type": "url",
+                  "url": "https://zhuanlan.zhihu.com/p/593342103"
+               }, {
+                  "date_added": "13323758009157118",
+                  "date_last_used": "0",
+                  "guid": "029f97f8-c996-4fdd-b8d6-e8568b1ea964",
+                  "id": "151",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "开源版tailscale，headscale搭建 - DongVPS",
+                  "type": "url",
+                  "url": "https://www.dongvps.com/2022-09-02/%E5%BC%80%E6%BA%90%E7%89%88tailscale%EF%BC%8Cheadscale%E6%90%AD%E5%BB%BA/"
+               }, {
+                  "date_added": "13323758028700941",
+                  "date_last_used": "0",
+                  "guid": "03d7d8f3-e6de-408c-8c03-cd31f407f858",
+                  "id": "152",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "开源版tailscale，headscale搭建 - DongVPS",
+                  "type": "url",
+                  "url": "https://www.dongvps.com/2022-09-02/%e5%bc%80%e6%ba%90%e7%89%88tailscale%ef%bc%8cheadscale%e6%90%ad%e5%bb%ba/"
+               } ],
+               "date_added": "13321435561872175",
+               "date_last_used": "0",
+               "date_modified": "13323935680247185",
+               "guid": "45160351-7f6f-4170-bf71-4f294734d186",
+               "id": "127",
+               "name": "Nat穿透",
+               "type": "folder"
+            }, {
+               "date_added": "13304910767239287",
+               "date_last_used": "0",
+               "guid": "e0a57c62-72e5-4268-9ec9-cccc21192cf8",
+               "id": "39",
+               "name": "四大步骤，教你彻底关闭Win10自动更新",
+               "type": "url",
+               "url": "https://baijiahao.baidu.com/s?id=1732432888882246429&wfr=spider&for=pc"
+            }, {
+               "date_added": "13304914830342076",
+               "date_last_used": "0",
+               "guid": "a53ccf64-aca6-4a31-897c-b997e7c9137c",
+               "id": "41",
+               "name": "(亲测)躺着破解IDM下载权限，治疗不用破解补丁的强迫症们 - 走看看",
+               "type": "url",
+               "url": "http://t.zoukankan.com/ECJTUACM-873284962-p-7730243.html"
+            }, {
+               "date_added": "13304931371434263",
+               "date_last_used": "13323143587037306",
+               "guid": "64520924-8151-4d7b-a9a9-1900aa1327d4",
+               "id": "49",
+               "name": "LOA_help",
+               "type": "url",
+               "url": "http://58.250.248.14:8801/admin/help/webpage/index.htm"
+            }, {
+               "date_added": "13305210544813486",
+               "date_last_used": "0",
+               "guid": "e94acc95-dd20-4d36-a703-0cc0a02fc6fb",
+               "id": "53",
+               "name": "ROS 2 Documentation — ROS 2 Documentation: Rolling documentation",
+               "type": "url",
+               "url": "https://docs.ros.org/en/rolling/"
+            }, {
+               "date_added": "13305210936007181",
+               "date_last_used": "0",
+               "guid": "cdc86c9b-35e3-4cf7-8d23-fe5a8df21e85",
+               "id": "54",
+               "name": "终于有人把ROS机器人操作系统讲明白了_TechWeb",
+               "type": "url",
+               "url": "http://www.techweb.com.cn/cloud/2022-01-17/2874190.shtml"
+            }, {
+               "date_added": "13305256721165056",
+               "date_last_used": "13322028703047011",
+               "guid": "b83c089d-ffc9-4f6c-8232-11a85a69c47f",
+               "id": "55",
+               "name": "EF Core之批量操作（EFCore.BulkExtensions）_2Ker的博客-CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/sinat_14899485/article/details/112728302"
+            }, {
+               "date_added": "13305776365248244",
+               "date_last_used": "13322028697266189",
+               "guid": "0f96b09f-9727-411c-89b4-d28098a97d44",
+               "id": "57",
+               "name": "Docker - 将制作好的镜像上传到Docker Hub仓库（附操作步骤）",
+               "type": "url",
+               "url": "https://www.hangge.com/blog/cache/detail_2409.html"
+            }, {
+               "date_added": "13305791868026250",
+               "date_last_used": "0",
+               "guid": "c7f7c345-2818-422e-820c-ca9f757ae156",
+               "id": "59",
+               "name": "Unable to load shared library ‘libgdiplus‘ or one of its dependencies_棉晗榜的博客-CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/u011511086/article/details/114824740"
+            }, {
+               "date_added": "13305791872706272",
+               "date_last_used": "0",
+               "guid": "4648b2cd-5a7e-4c16-bb8b-1f033cc633f7",
+               "id": "60",
+               "name": "libgdiplus-2.10-10.el7.x86_64.rpm CentOS 7 Download",
+               "type": "url",
+               "url": "https://centos.pkgs.org/7/epel-x86_64/libgdiplus-2.10-10.el7.x86_64.rpm.html"
+            }, {
+               "date_added": "13306035424682695",
+               "date_last_used": "0",
+               "guid": "5a5d88bf-08d8-4696-a811-626b72bc53c3",
+               "id": "62",
+               "name": "iBMC support.xfusion.com",
+               "type": "url",
+               "url": "https://support.xfusion.com/server-simulators/ibmc-demo/v600/#/navigate/system/storage"
+            }, {
+               "date_added": "13306035824616168",
+               "date_last_used": "13323183022018240",
+               "guid": "72f285fc-bcd4-4646-bf23-33451de74486",
+               "id": "63",
+               "name": "仿真环境",
+               "type": "url",
+               "url": "https://support.xfusion.com/server-simulators/"
+            }, {
+               "date_added": "13306052514417016",
+               "date_last_used": "0",
+               "guid": "41ecc177-e9cf-4961-bede-df90140e2a73",
+               "id": "65",
+               "name": "js echarts lines 使用第二篇-实现传送带效果 - 简书",
+               "type": "url",
+               "url": "https://www.jianshu.com/p/0876c37fd3d4"
+            }, {
+               "date_added": "13305025273816266",
+               "date_last_used": "0",
+               "guid": "e87efdaf-6ff1-4179-bcbe-baea18384de7",
+               "id": "50",
+               "name": "C# LINQ和Lambda表达式详解 - 五维思考 - 博客园",
+               "type": "url",
+               "url": "https://www.cnblogs.com/zhaoshujie/p/10434657.html"
+            }, {
+               "date_added": "13306583959041605",
+               "date_last_used": "13321939491691986",
+               "guid": "8def5202-4665-4d7c-9b9b-e419f45d494e",
+               "id": "72",
+               "name": "工程数据 - 金蝶云产品手册",
+               "type": "url",
+               "url": "https://help.open.kingdee.com/dokuwiki/doku.php?id=%E5%B7%A5%E7%A8%8B%E6%95%B0%E6%8D%AE"
+            }, {
+               "date_added": "13308977397326858",
+               "date_last_used": "0",
+               "guid": "b16d6937-3914-4f82-bbe7-84bdb968a5a5",
+               "id": "84",
+               "name": "idm序列号2022最新版分享_idm序列号永久破解版大全-win7之家",
+               "type": "url",
+               "url": "https://www.win7zhijia.cn/win10jc/win10_47452.html"
+            }, {
+               "date_added": "13311316280571815",
+               "date_last_used": "0",
+               "guid": "a123d65f-d7a5-4fe3-a78e-ab1d64ee32a2",
+               "id": "91",
+               "name": "解决ffmpeg的播放摄像头的延时优化问题(项目案例使用有效) - 北城青 - 博客园",
+               "type": "url",
+               "url": "https://www.cnblogs.com/sk777/p/16831556.html"
+            }, {
+               "date_added": "13308926489476627",
+               "date_last_used": "0",
+               "guid": "46feb254-946c-4bd5-9840-ce1e209278df",
+               "id": "83",
+               "name": "flv.js的追帧、断流重连及实时更新的直播优化方案 - 夏大师 - 博客园",
+               "type": "url",
+               "url": "https://www.cnblogs.com/xiahj/p/flvExtend.html"
+            }, {
+               "date_added": "13313833957288908",
+               "date_last_used": "13323269105417376",
+               "guid": "2dbd8792-b6c9-41ee-a5dc-0fe1e0fe3bd3",
+               "id": "106",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "胡工科技",
+               "type": "url",
+               "url": "http://www.hslcommunication.cn/"
+            }, {
+               "date_added": "13313638454322175",
+               "date_last_used": "0",
+               "guid": "e1f53d71-9bee-4ebc-9f6c-e45ab95f6eba",
+               "id": "101",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "使用套接字发送和接收数据 - .NET | Microsoft Learn",
+               "type": "url",
+               "url": "https://learn.microsoft.com/zh-cn/dotnet/fundamentals/networking/sockets/socket-services#create-a-socket-client"
+            }, {
+               "date_added": "13313738384993110",
+               "date_last_used": "0",
+               "guid": "b93e8942-713e-4598-91b2-f5cc4c42d3dd",
+               "id": "103",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "VMware中安装win10教程_柳迎风的博客-CSDN博客_vmware安装win10",
+               "type": "url",
+               "url": "https://blog.csdn.net/lvlheike/article/details/120398259"
+            }, {
+               "date_added": "13316860118879575",
+               "date_last_used": "13322205728948143",
+               "guid": "33aec1f9-518b-40a0-b0de-dda9190c48f6",
+               "id": "110",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "centos7.6重置root密码 - 简书",
+               "type": "url",
+               "url": "https://www.jianshu.com/p/2d9ef59af053"
+            }, {
+               "date_added": "13322121863760437",
+               "date_last_used": "13322208838968869",
+               "guid": "4891160d-b60a-4fc0-b497-e282c29733fc",
+               "id": "132",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Oracle甲骨文免费云主机申请使用-Oracle免费VPS测评和VPS重置密钥登录 - 挖站否-挖掘建站的乐趣",
+               "type": "url",
+               "url": "https://wzfou.com/oracle-mianfei-vps/"
+            }, {
+               "date_added": "13322121954838177",
+               "date_last_used": "13322885844060915",
+               "guid": "df937a4f-26d9-4fec-9785-5b0a6ac3022c",
+               "id": "133",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "狗云 - 经典云服务器",
+               "type": "url",
+               "url": "https://www.dogyun.com/product/vps"
+            }, {
+               "date_added": "13322122043390499",
+               "date_last_used": "13322134155638189",
+               "guid": "33d37d17-1a6d-43ac-8b34-1eee336fe0bb",
+               "id": "134",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "组装一台 22TB 容量的 NAS（家庭存储服务器） – 云原生实验室 - Kubernetes|Docker|Istio|Envoy|Hugo|Golang|云原生",
+               "type": "url",
+               "url": "https://icloudnative.io/posts/budget-nas/#%E5%8A%9F%E8%80%97%E6%B5%8B%E8%AF%95"
+            } ],
+            "date_added": "13304918718851201",
+            "date_last_used": "0",
+            "date_modified": "13322651642759604",
+            "guid": "0956f18d-398f-4508-b816-74f3c6348dc9",
+            "id": "44",
+            "name": "资料",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13304929547536181",
+               "date_last_used": "13323958088619757",
+               "guid": "d8dede91-6ef1-4ed9-ae4f-a69b64fb93c1",
+               "id": "46",
+               "name": "AntdV1.7",
+               "type": "url",
+               "url": "https://1x.antdv.com/docs/vue/introduce-cn/"
+            }, {
+               "date_added": "13305038802160241",
+               "date_last_used": "13324103758655907",
+               "guid": "a7c9a4c8-adef-4296-a787-e54af8a8ab10",
+               "id": "51",
+               "name": "Admin.NET: 🔥基于Furion/.NET 6实现的通用管理平台。整合最新技术，模块插件式开发，前后端分离，开箱即用。集成SqlSugar、多租户、缓存、数据校验、鉴权、事件总线、动态API、通讯、远程请求、任务调度、gRPC等众多黑科技。代码简洁、易扩展，让开发更简单、更通用、更流行！",
+               "type": "url",
+               "url": "https://gitee.com/zuohuaijun/Admin.NET"
+            }, {
+               "date_added": "13305038808574667",
+               "date_last_used": "13323848810124361",
+               "guid": "b3c46099-9365-49f2-9d0e-a222ee756321",
+               "id": "52",
+               "name": "1.1 介绍 | Furion",
+               "type": "url",
+               "url": "https://furion.baiqian.ltd/docs"
+            }, {
+               "date_added": "13306244173700081",
+               "date_last_used": "0",
+               "guid": "80b5f4b6-0679-49c8-afbe-7d72a1b2f65c",
+               "id": "67",
+               "name": "一些好用的 SVG Path（路径）代码可视化编辑工具 - 掘金",
+               "type": "url",
+               "url": "https://juejin.cn/post/6844903494906806285"
+            }, {
+               "date_added": "13306418271379746",
+               "date_last_used": "0",
+               "guid": "a3ac163b-03dd-4f8d-92f4-affef3589f5a",
+               "id": "68",
+               "name": "边框 | DataV",
+               "type": "url",
+               "url": "http://datav.jiaminghi.com/guide/borderBox.html#dv-border-box-10"
+            }, {
+               "date_added": "13306421346525713",
+               "date_last_used": "0",
+               "guid": "fcff5942-e8bd-4f2b-a5f6-7a2cc0d2a3fe",
+               "id": "69",
+               "name": "Remix Icon - Open source icon library",
+               "type": "url",
+               "url": "https://remixicon.com/"
+            }, {
+               "date_added": "13306495044930424",
+               "date_last_used": "0",
+               "guid": "e309e8eb-5afc-48e8-af80-85a8603889a2",
+               "id": "70",
+               "name": "svg-path-topoly",
+               "type": "url",
+               "url": "file:///E:/%E8%B5%84%E6%96%99/SVGParse/dist/index.html"
+            }, {
+               "date_added": "13306554442453933",
+               "date_last_used": "0",
+               "guid": "fabb276c-73ba-438e-b88e-9caa7440d72a",
+               "id": "71",
+               "name": "SVG 在线编辑器 | 菜鸟工具",
+               "type": "url",
+               "url": "https://c.runoob.com/more/svgeditor/"
+            }, {
+               "date_added": "13309673682900645",
+               "date_last_used": "13324101984661282",
+               "guid": "f90b8b15-a271-436c-84af-c39b9f5d3b76",
+               "id": "86",
+               "name": "Excel | vue-element-admin",
+               "type": "url",
+               "url": "https://panjiachen.gitee.io/vue-element-admin-site/zh/feature/component/excel.html#excel-%E5%AF%BC%E5%87%BA"
+            }, {
+               "date_added": "13306224134654585",
+               "date_last_used": "0",
+               "guid": "5eb522e3-c688-4da7-9589-ee554a45f319",
+               "id": "66",
+               "name": "E:\\资料\\DaShuJuZhiDaPingZhanShi-master\\ 的索引",
+               "type": "url",
+               "url": "file:///E:/%E8%B5%84%E6%96%99/DaShuJuZhiDaPingZhanShi-master/"
+            }, {
+               "date_added": "13323582963489505",
+               "date_last_used": "13323583067780324",
+               "guid": "fa73166f-0379-45a7-82b8-dc9b93c39009",
+               "id": "149",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Vue2",
+               "type": "url",
+               "url": "https://v2.cn.vuejs.org/v2/guide/"
+            }, {
+               "date_added": "13323583029944474",
+               "date_last_used": "13323583070625155",
+               "guid": "9271492f-f956-498b-8c73-1f3d8d86b7a6",
+               "id": "150",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Vue3",
+               "type": "url",
+               "url": "https://cn.vuejs.org/guide/introduction.html"
+            } ],
+            "date_added": "13304929575823910",
+            "date_last_used": "0",
+            "date_modified": "13323758009157118",
+            "guid": "c986a2f5-4b4a-4985-8c63-2f637906f1c0",
+            "id": "47",
+            "name": "FE",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13322651063607972",
+               "date_last_used": "13323503964130512",
+               "guid": "e21743a7-51ca-4faa-b918-e201e692d1b0",
+               "id": "141",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "快速开始 - Lion.AbpPro",
+               "type": "url",
+               "url": "https://doc.cncore.club/user-guide/zh/getting-started/quick-start/"
+            } ],
+            "date_added": "13322651642759407",
+            "date_last_used": "0",
+            "date_modified": "13322820592662232",
+            "guid": "8044bc12-d425-4dc3-8321-b48989591444",
+            "id": "143",
+            "name": "abp",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13308914106448093",
+               "date_last_used": "13324032400245243",
+               "guid": "6d88159d-3d22-40da-8a65-ee9e64f6c332",
+               "id": "81",
+               "name": "NPS",
+               "type": "url",
+               "url": "http://82.156.2.12:8080/client/list"
+            }, {
+               "date_added": "13308913034808948",
+               "date_last_used": "13322723146861648",
+               "guid": "3f43b5b3-0c5e-40bf-a39d-10bb7dc11ef1",
+               "id": "80",
+               "name": "Portainer",
+               "type": "url",
+               "url": "http://139.198.123.106:10429/"
+            }, {
+               "date_added": "13308913011558897",
+               "date_last_used": "13323585461786861",
+               "guid": "f75fcf9d-310c-4a40-b1f3-1c29f67ab592",
+               "id": "78",
+               "name": "智能运维系统",
+               "type": "url",
+               "url": "http://139.198.123.106:10430/"
+            } ],
+            "date_added": "13308913025694536",
+            "date_last_used": "0",
+            "date_modified": "13322058420480274",
+            "guid": "d182fdb4-26b2-45c2-a8d4-38f395ac0118",
+            "id": "79",
+            "name": "442Beijing",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13319796866243263",
+               "date_last_used": "13322208179982421",
+               "guid": "874dee66-ad72-4015-96e2-d94046d1d628",
+               "id": "115",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Portainer DB",
+               "type": "url",
+               "url": "http://139.198.123.106:10423/"
+            }, {
+               "date_added": "13319796837835246",
+               "date_last_used": "13322222433396917",
+               "guid": "30c74b39-5586-4457-9fa0-8712ca52fab9",
+               "id": "114",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Portainer 系统",
+               "type": "url",
+               "url": "http://139.198.123.106:10426/"
+            }, {
+               "date_added": "13319796886427275",
+               "date_last_used": "13324031465851314",
+               "guid": "0df0d2aa-93fe-4aec-abe1-59ef069ac45c",
+               "id": "116",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "首页 - 江苏航天锂电",
+               "type": "url",
+               "url": "http://139.198.123.106:10427/"
+            } ],
+            "date_added": "13319796911956899",
+            "date_last_used": "0",
+            "date_modified": "13319796932968544",
+            "guid": "b2de46be-3859-4b51-b740-91aac4c03f34",
+            "id": "117",
+            "name": "455",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13322058420480274",
+               "date_last_used": "13323961694262129",
+               "guid": "aed038ee-9611-4502-8c73-d29d42cb12d4",
+               "id": "131",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "hxstar/csot_wcs - Gogs",
+               "type": "url",
+               "url": "http://139.9.0.127:3000/hxstar/csot_wcs"
+            }, {
+               "date_added": "13322213546249457",
+               "date_last_used": "13322646090653037",
+               "guid": "a0508ca2-9b31-4b2b-b213-a73c17922ae1",
+               "id": "135",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Portainer",
+               "type": "url",
+               "url": "http://139.9.0.127:9000/#/containers"
+            }, {
+               "date_added": "13322213578793353",
+               "date_last_used": "13323583483262399",
+               "guid": "6fbe5bcb-2a73-4236-a5dc-1c090a19aba5",
+               "id": "137",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "WCS",
+               "type": "url",
+               "url": "http://139.9.0.127:82/welcome"
+            }, {
+               "date_added": "13322836498645937",
+               "date_last_used": "13322836510782321",
+               "guid": "a0e56e4f-2335-488b-bde0-d3306c8fa86c",
+               "id": "145",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "BC",
+               "type": "url",
+               "url": "http://139.9.0.127:81/welcome"
+            }, {
+               "date_added": "13323511828439549",
+               "date_last_used": "13324102113415676",
+               "guid": "af36f69a-a267-43d9-b699-7715f7d3b054",
+               "id": "148",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "项目管理 - PingCode",
+               "type": "url",
+               "url": "https://wblf20230315022530326.pingcode.com/pjm/projects/M6B/641132d6a1c70904a6c6947a/5e68a884e11dd3a0d8b6eb87"
+            } ],
+            "date_added": "13322213557313348",
+            "date_last_used": "0",
+            "date_modified": "13323582963489505",
+            "guid": "ff128ce1-7e8a-48bf-8a63-acf14b7d7b80",
+            "id": "136",
+            "name": "WCS",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13324012303148182",
+               "date_last_used": "13324101453499058",
+               "guid": "eb5b328c-943a-4045-87c3-3df9f87265cb",
+               "id": "157",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": " SSCMS 7.2 文档中心",
+               "type": "url",
+               "url": "https://sscms.com/docs/v7/getting-started/#%E4%BA%A7%E5%93%81%E7%89%B9%E6%80%A7"
+            }, {
+               "date_added": "13324012353948659",
+               "date_last_used": "0",
+               "guid": "fa878b49-3b79-40d1-9122-0b1fa8ad04a0",
+               "id": "159",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "管理后台",
+               "type": "url",
+               "url": "http://82.156.2.12:10004/ss-admin/"
+            }, {
+               "date_added": "13324034333126014",
+               "date_last_used": "13324101449216881",
+               "guid": "5065dd71-8c6b-45c8-a984-d0bea27c096b",
+               "id": "160",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "使用 Docker 搭建适用于 HomeLab 的书签导航 - 苏洋博客",
+               "type": "url",
+               "url": "https://soulteary.com/2022/02/08/building-bookmark-navigation-for-homelab-with-docker.html"
+            } ],
+            "date_added": "13324012332229403",
+            "date_last_used": "0",
+            "date_modified": "13324034333126014",
+            "guid": "b6297bd5-4911-4018-9a76-ab3c2f6c5d91",
+            "id": "158",
+            "name": "sscms",
+            "type": "folder"
+         }, {
+            "date_added": "13304930257597500",
+            "date_last_used": "0",
+            "guid": "db2b3bab-2c90-4c39-91ce-2b014a1f8f88",
+            "id": "48",
+            "name": "清除浏览数据",
+            "type": "url",
+            "url": "chrome://settings/clearBrowserData"
+         }, {
+            "date_added": "13304824736393688",
+            "date_last_used": "13322975275025080",
+            "guid": "556236c7-b2c1-4428-ba16-f283b568389e",
+            "id": "37",
+            "name": "GitLab",
+            "type": "url",
+            "url": "http://139.198.124.208:10102/"
+         }, {
+            "date_added": "13310827685699033",
+            "date_last_used": "13323182661006183",
+            "guid": "44a6d516-565b-45a7-b609-8856e2133702",
+            "id": "88",
+            "name": "Redmine",
+            "type": "url",
+            "url": "http://192.168.1.165:3000/my/page"
+         }, {
+            "date_added": "13319776611675846",
+            "date_last_used": "13323182634102330",
+            "guid": "f6f0b778-2058-49aa-8cfb-99327bcc1247",
+            "id": "113",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "frps",
+            "type": "url",
+            "url": "http://82.156.2.12:7500/static/#/proxies/tcp"
+         }, {
+            "date_added": "13311930947508572",
+            "date_last_used": "13322229983357629",
+            "guid": "20786b3b-512a-421c-be2c-cefcab60d3c8",
+            "id": "93",
+            "name": "博客园",
+            "type": "url",
+            "url": "https://www.cnblogs.com/lichacc/"
+         }, {
+            "date_added": "13322230163989652",
+            "date_last_used": "13324030002820742",
+            "guid": "80764d49-cb2d-4798-8df2-d1022103f8e6",
+            "id": "138",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "CSDN",
+            "type": "url",
+            "url": "https://mp.csdn.net/mp_blog/manage/article"
+         }, {
+            "date_added": "13312619140223088",
+            "date_last_used": "13323261032696735",
+            "guid": "2d446ac8-8717-4332-b46b-f52297ab8092",
+            "id": "95",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ZStack",
+            "type": "url",
+            "url": "http://192.168.2.107:5000/#/main/wizard"
+         }, {
+            "date_added": "13319798145663169",
+            "date_last_used": "13324034720335235",
+            "guid": "5aa56e8c-91d1-473f-a06f-e6bef676cda2",
+            "id": "118",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "腾讯云",
+            "type": "url",
+            "url": "https://console.cloud.tencent.com/lighthouse/instance/detail?searchParams=rid%3D8&rid=8&id=lhins-g1dae3ii&tab=firewall"
+         }, {
+            "date_added": "13320723865348081",
+            "date_last_used": "13324091221042598",
+            "guid": "cf2358d9-9099-41ab-be77-5b612c78ac6e",
+            "id": "120",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "MES开发计划管理(22M11) · 钉钉文档",
+            "type": "url",
+            "url": "https://docs.dingtalk.com/i/nodes/e5vdDPq4wYa8aZ2kxaYLWj7nbm10NkB9"
+         }, {
+            "date_added": "13321016741738589",
+            "date_last_used": "13324032391723972",
+            "guid": "789858bb-f368-4c8f-85ac-6be4eed83c0c",
+            "id": "124",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "frps",
+            "type": "url",
+            "url": "http://139.198.124.208:7500/static/#/proxies/tcp"
+         }, {
+            "date_added": "13322563165245478",
+            "date_last_used": "13323499110754096",
+            "guid": "eaa42728-39c3-4fc2-9f72-4ab001486bb2",
+            "id": "139",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "德富莱",
+            "type": "url",
+            "url": "http://192.168.1.181/#/pmp/taskPublicPage/departmentType=9"
+         }, {
+            "date_added": "13322640601047574",
+            "date_last_used": "13323499126494832",
+            "guid": "e74498bb-7182-4269-9919-50038aba26f2",
+            "id": "140",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Open Robotics",
+            "type": "url",
+            "url": "https://www.openrobotics.org/"
+         }, {
+            "date_added": "13323152774675839",
+            "date_last_used": "13323765297648681",
+            "guid": "696b3081-353f-48bf-8e83-cff40a49842d",
+            "id": "147",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "左风的ChatGPT",
+            "type": "url",
+            "url": "https://jyf6wk-chat-gpt.site.laf.dev/"
+         }, {
+            "date_added": "13323935680247185",
+            "date_last_used": "0",
+            "guid": "b488f204-b7f9-4cd5-93ed-954bb95b80b2",
+            "id": "154",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(1条消息) Docker系列 搭建个人云盘服务nextcloud-CSDN博客",
+            "type": "url",
+            "url": "https://blog.csdn.net/huangwb8/article/details/124507981?spm=1001.2014.3001.5502"
+         }, {
+            "date_added": "13323935692431289",
+            "date_last_used": "0",
+            "guid": "e8cc37f5-fe28-4ea7-9386-971268a7988b",
+            "id": "155",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(1条消息) Docker系列 WordPress系列 搭建WordPress个人博客-CSDN博客",
+            "type": "url",
+            "url": "https://blog.csdn.net/huangwb8/article/details/124550148?spm=1001.2014.3001.5502"
+         } ],
+         "date_added": "13181282880927585",
+         "date_last_used": "0",
+         "date_modified": "13324012353948659",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "书签栏",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13181282880927630",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "其他书签",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13181282880927633",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "移动设备书签",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
