@@ -28,7 +28,7 @@ export default {
   },
   methods: {
     load(){   
-        fetch('./src/Bookmarks') 
+        fetch('src/Bookmarks') 
         .then(response => response.json())
         .then(res => { 
             this.data=res.roots.bookmark_bar.children
