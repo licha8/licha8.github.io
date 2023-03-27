@@ -20,7 +20,7 @@ export default {
     return {
         defaultProps:{
             children: 'children',
-            label: 'name',
+            label: 'name', 
         },
         bookmarks:[],
         number:1,
@@ -35,14 +35,15 @@ export default {
     },
     loadBookmark(){
         let _this=this
-        fetch('src/Bookmarks/'+_this.number) 
-        .then(response => response.json())
-        .then(res => { 
-            let data=res.roots.bookmark_bar.children
-            if(data && data.length>0){
-                _this.bookmarks.push({idx:_this.number,data:data})
-                _this.number++
-                _this.loadBookmark()
+        this.$axios.get('bookmarks/'+_this.number).then(res =>{
+            console.log(res.data);
+            if(res.data && res.data.roots){
+                let data=res.data.roots.bookmark_bar.children
+                if(data && data.length>0){
+                    _this.bookmarks.push({idx:_this.number,data:data})
+                    _this.number++
+                    _this.loadBookmark()
+                }
             }
         })
     }
